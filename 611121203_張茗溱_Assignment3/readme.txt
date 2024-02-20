@@ -1,0 +1,1 @@
+用save_data_hbase.ipynb抓取資料並且存入hbase，再用analyze_data_pyspark.ipynb讀取hbase裡面資料並用spark做資料分析。
